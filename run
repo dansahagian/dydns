@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /home/dan/.dydns-env
+source /home/dan/venvs/py35/bin/activate
+python dydns.py
